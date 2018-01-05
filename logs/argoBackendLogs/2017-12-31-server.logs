@@ -1,0 +1,627 @@
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"10:26:24"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"10:26:24"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"10:26:24"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"10:26:24"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"10:26:24"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"10:26:24"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"10:26:24"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"10:26:24"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"10:26:24"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"10:26:24"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"10:26:24"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"10:38:00"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"10:40:07"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"10:40:07"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"10:40:07"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"10:40:07"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"10:40:07"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"10:40:07"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"10:40:07"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"10:40:07"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"10:40:07"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"10:40:07"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"10:40:07"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"10:49:33"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"10:49:35"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"10:49:35"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"10:49:35"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"10:49:35"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"10:49:35"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"10:49:35"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"10:49:35"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"10:49:35"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"10:49:35"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"10:49:35"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"10:49:35"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"10:51:42"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"10:51:43"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"10:51:43"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"10:51:43"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"10:51:43"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"10:51:43"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"10:51:43"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"10:51:43"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"10:51:43"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"10:51:43"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"10:51:43"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"10:51:43"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:08:20"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:08:22"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:08:22"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:08:22"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:08:22"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:08:22"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:08:22"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:08:22"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:08:22"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:08:22"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:08:22"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:08:22"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:09:39"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:09:41"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:09:41"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:09:41"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:09:41"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:09:41"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:09:41"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:09:41"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:09:41"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:09:41"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:09:41"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:09:41"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:12:13"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:12:14"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:12:14"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:12:14"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:12:14"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:12:14"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:12:14"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:12:14"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:12:14"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:12:14"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:12:15"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:12:15"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:15:03"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:15:05"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:15:05"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:15:05"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:15:05"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:15:05"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:15:05"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:15:05"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:15:05"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:15:05"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:15:05"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:15:05"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:16:02"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:16:19"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:16:19"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:16:19"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:16:19"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:16:19"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:16:19"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:16:19"}
+{"level":"info","message":"server: @#$@$%#^#$%@#%^@$%","timestamp":"11:16:19"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:16:19"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:16:19"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:16:19"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:16:19"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:16:44"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:16:45"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:16:45"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:16:45"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:16:45"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:16:45"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:16:45"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:16:45"}
+{"level":"info","message":"server: @#$@$%#^#$%@#%^@$%","timestamp":"11:16:45"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:16:45"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:16:45"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:16:45"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:16:45"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:17:28"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:17:30"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:17:30"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:17:30"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:17:30"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:17:30"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:17:30"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:17:30"}
+{"level":"info","message":"server: @#$@$%#^#$%@#%^@$%","timestamp":"11:17:30"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:17:30"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:17:30"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:17:30"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:17:30"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:18:56"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:18:59"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:18:59"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:18:59"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:18:59"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:18:59"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:18:59"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:18:59"}
+{"level":"info","message":"server: @#$@$%#^#$%@#%^@$%","timestamp":"11:18:59"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:18:59"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:18:59"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:18:59"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:18:59"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:19:37"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:19:38"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:19:38"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:19:38"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:19:38"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:19:38"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:19:38"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:19:38"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:19:38"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:19:38"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:19:38"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:19:38"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:20:21"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:20:22"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:20:22"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:20:22"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:20:22"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:20:22"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:20:22"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:20:22"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:20:22"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:20:22"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:20:22"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:20:22"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:24:25"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:24:27"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:24:27"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:24:27"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:24:27"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:24:27"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:24:27"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:24:27"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:24:27"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:24:27"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:24:27"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:24:27"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:25:47"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:25:48"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:25:48"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:25:48"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:25:48"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:25:48"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:25:48"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:25:48"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:25:48"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:25:48"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:25:48"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:25:48"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:33:08"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:53:17"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:53:17"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:53:17"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:53:17"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:53:17"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:53:17"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:53:17"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:53:17"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:53:17"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:53:17"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:53:17"}
+{"level":"info","message":"server: #$@%@#$%#@%@#$%setting up the response","timestamp":"11:53:26"}
+{"level":"info","message":"server: #$@%@#$%#@%@#$%setting up the response","timestamp":"11:53:29"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:53:48"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:53:50"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:53:50"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:53:50"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:53:50"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:53:50"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:53:50"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:53:50"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:53:50"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:53:50"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:53:50"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:53:50"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"11:55:06"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"11:55:08"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"11:55:08"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"11:55:08"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"11:55:08"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"11:55:08"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"11:55:08"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"11:55:08"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"11:55:08"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"11:55:08"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"11:55:08"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"11:55:08"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:04:26"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:05:43"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:07:01"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:07:19"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:10:29"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:12:47"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:13:05"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:23:21"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:24:24"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:25:51"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"14:27:08"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"14:27:08"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"14:28:05"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"14:28:05"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"14:31:14"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"14:54:41"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"14:54:43"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"14:54:43"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"14:54:43"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"14:54:43"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"14:54:43"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"14:54:43"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"14:54:43"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"14:54:43"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"14:54:43"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"14:54:43"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"14:54:43"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"14:54:51"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"14:54:51"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"14:55:03"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"14:55:03"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"14:55:30"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"14:55:31"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"14:55:31"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"14:55:31"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"14:55:31"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"14:55:31"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"14:55:31"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"14:55:31"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"14:55:31"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"14:55:31"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"14:55:31"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"14:55:31"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"14:55:39"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"14:55:39"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"14:59:24"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"14:59:25"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"14:59:25"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"14:59:25"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"14:59:25"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"14:59:25"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"14:59:25"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"14:59:25"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"14:59:25"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"14:59:25"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"14:59:25"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"14:59:25"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"14:59:39"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"14:59:39"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:00:21"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:00:21"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:00:36"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:00:36"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"15:18:30"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"15:18:32"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"15:18:32"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"15:18:32"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"15:18:32"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"15:18:32"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"15:18:32"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"15:18:32"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"15:18:32"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"15:18:32"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"15:18:32"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"15:18:32"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:19:06"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:19:06"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:20:40"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:20:40"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:22:34"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:22:34"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:30:38"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:30:38"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:34:22"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:34:22"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:34:36"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:34:36"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:36:42"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:36:42"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:37:42"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:37:42"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:38:36"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:38:36"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:43:55"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:43:55"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"15:44:26"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"15:44:28"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"15:44:28"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"15:44:28"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"15:44:28"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"15:44:28"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"15:44:28"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"15:44:28"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"15:44:28"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"15:44:28"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"15:44:28"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"15:44:28"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:44:35"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:44:35"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"15:47:51"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"15:47:53"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"15:47:53"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"15:47:53"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"15:47:53"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"15:47:53"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"15:47:53"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"15:47:53"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"15:47:53"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"15:47:53"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"15:47:53"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"15:47:53"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:48:01"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:48:01"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"15:50:52"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"15:50:59"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"15:50:59"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"15:50:59"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"15:50:59"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"15:50:59"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"15:50:59"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"15:50:59"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"15:50:59"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"15:50:59"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"15:50:59"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"15:50:59"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:51:10"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:51:10"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"15:52:47"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"15:52:49"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"15:52:49"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"15:52:49"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"15:52:49"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"15:52:49"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"15:52:49"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"15:52:49"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"15:52:49"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"15:52:49"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"15:52:49"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"15:52:49"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"15:52:55"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"15:52:55"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"16:04:02"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"16:04:04"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"16:04:04"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"16:04:04"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"16:04:04"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"16:04:04"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"16:04:04"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"16:04:04"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"16:04:04"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"16:04:04"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"16:04:04"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"16:04:04"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"16:04:12"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"16:07:35"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"16:09:47"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"16:09:48"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"16:09:48"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"16:09:48"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"16:09:48"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"16:09:48"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"16:09:48"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"16:09:48"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"16:09:48"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"16:09:48"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"16:09:48"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"16:09:48"}
+{"level":"info","message":"response: IN HERE!!!!!!!","timestamp":"16:09:58"}
+{"level":"warn","message":"mongodb: Mongoose default connection is disconnected","timestamp":"16:16:56"}
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"16:16:58"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"16:16:58"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"16:16:58"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"16:16:58"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"16:16:58"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"16:16:58"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"16:16:58"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"16:16:58"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"16:16:58"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"16:16:58"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"16:16:58"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"16:49:17"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"16:49:17"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:38:15"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:38:15"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:38:18"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:38:18"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:38:27"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:38:27"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:38:35"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:38:35"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:40:38"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:40:38"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:42:58"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:42:58"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:44:01"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:44:01"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:47:18"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:47:18"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:49:52"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:49:52"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"17:51:06"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"17:51:06"}
+{"level":"error","message":"amazingQuotesService: Error: getaddrinfo ENOTFOUND xxj950rrlta9.execute-api.us-east-2.amazonaws.com xxj950rrlta9.execute-api.us-east-2.amazonaws.com:443","timestamp":"18:13:05"}
+{"level":"info","message":"quotesModel: quote status = success, price = 100000","timestamp":"18:13:05"}

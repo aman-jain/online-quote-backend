@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "ownerName": "John Smith",
+        "model": "Gulfstream G650",
+        "seatCapacity": "12",
+        "manufacturedDate": "2011-04-13T00:00:00.000Z",
+        "purchasePrice": "7100000000",
+        "brokerEmail": "aman.jain@gmail.com"
+    },
+    {
+        "ownerName": "John Smith",
+        "model": "Gulfstream G650",
+        "seatCapacity": "12",
+        "manufacturedDate": "2011-04-13T00:00:00.000Z",
+        "purchasePrice": "7100000000",
+        "brokerEmail": "aman.jain@gmail.com"
+    }]
+}
+

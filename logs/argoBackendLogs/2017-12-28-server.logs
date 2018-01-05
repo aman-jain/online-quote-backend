@@ -1,0 +1,17 @@
+{"level":"info","message":"main: Initiated Bootstrap...","timestamp":"18:35:19"}
+{"level":"info","message":"main: Logger Setup Complete","timestamp":"18:35:19"}
+{"level":"info","message":"main: Initiating Database Setup...","timestamp":"18:35:19"}
+{"level":"info","message":"main: Database Setup Complete","timestamp":"18:35:19"}
+{"level":"info","message":"main: Initiating Server Setup....","timestamp":"18:35:19"}
+{"level":"info","message":"server: Setting up Routes","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: Initiating Routes....","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: News Route - GET method loaded","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: News Route - POST method loaded","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: News Route - PUT method loaded","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: News Route - DELETE method loaded","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: Quotes Route - GET method loaded","timestamp":"18:35:19"}
+{"level":"info","message":"baseRouter: Quotes Route - POST method loaded","timestamp":"18:35:19"}
+{"level":"info","message":"server: Setting up Response Middleware","timestamp":"18:35:19"}
+{"level":"info","message":"server: SSL MODE: false","timestamp":"18:35:19"}
+{"level":"info","message":"server: Started Server on: :::3000","timestamp":"18:35:19"}
+{"level":"info","message":"mongodb: Mongoose default connection establised on  -- \"mongodb://127.0.0.1:27017/argo\"","timestamp":"18:35:19"}
