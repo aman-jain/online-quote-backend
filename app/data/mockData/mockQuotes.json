@@ -14,6 +14,22 @@
         "manufacturedDate": "2011-04-13T00:00:00.000Z",
         "purchasePrice": "7100000000",
         "brokerEmail": "aman.jain@gmail.com"
-    }]
+    }],
+    "apiData":{
+        "data": {
+            "ok":true,
+            "data":{
+                "quote":{
+                    "owner_name":"Jim",
+                    "model":"Gulfstream G650",
+                    "seat_capacity":19,
+                    "manufactured_date":"12/23/2006",
+                    "purchase_price":100000,
+                    "broker_email":"jim@jim.com"
+                },
+                "annual_premium":2850006.4
+            }
+        }
+    }
 }
 

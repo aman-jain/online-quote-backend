@@ -2,18 +2,19 @@
 
 const mongoose = require('mongoose');
 
+const Schema = mongoose.Schema;
 const MODULE = 'quotesService';
 
 function quotesService(config, logger) {
-    const quotesSchema = mongoose.Schema({
-        id: mongoose.Schema.Types.ObjectId,
+    const quotesSchema = new Schema({
+        id: Schema.Types.ObjectId,
         ownerName: String,
         model: String,
         seatCapacity: Number,
         manufacturedDate: Date,
         purchasePrice: Number,
         borkerEmail: String,
-        quotesData: mongoose.Schema.Types.Mixed,
+        quotesData: Schema.Types.Mixed,
         createdAt: Date,
     });
     const Quotes = mongoose.model('Quotes', quotesSchema);

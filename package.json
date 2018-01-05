@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node --expose-gc app/app.js",
     "test": "npm run test:file -- ./app/**/*.spec.js",
-    "test:file": "mocha --timeout 15000"
+    "test:file": "mocha --timeout 15000",
+    "coverage:html": "nyc --reporter=html npm test -- --timeout 15000"
   },
   "author": "Aman Jain",
   "license": "ISC",
@@ -22,6 +23,20 @@
     "winston": "^2.4.0",
     "winston-daily-rotate-file": "^1.7.2"
   },
+  "nyc": {
+    "all": true,
+    "include": [
+      "app/**/*.js"
+    ],
+    "exclude": [
+      "app/**/*.spec.js",
+      "app/data/*.js",
+      "app/routes/*.js"
+    ],
+    "reporter": [
+      "html"
+    ]
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.14.0",
@@ -30,6 +45,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
     "mocha": "^4.1.0",
+    "nyc": "^11.4.1",
     "rewire": "^3.0.2",
     "sinon": "^4.1.3",
     "supertest": "^3.0.0"

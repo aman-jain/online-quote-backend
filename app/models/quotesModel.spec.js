@@ -27,6 +27,12 @@ describe('Executing Test Cases For QuotesModel', () => {
         // runs before all tests in this block
         const initModel = rewire('./quotesModel');
         revertRewiring = initModel.__set__({
+            amazingQuotesServiceREQ: () => ({
+                getAmazingQuotes: () => Promise.resolve(mockQuotes.apiData),
+            }),
+            emailServiceREQ: () => ({
+                sendEmail: () => true,
+            }),
             quotesServiceREQ: () => ({
                 getQuotes: () => Promise.resolve(mockQuotes.data),
                 saveQuotes: () => Promise.resolve(mockQuotes.data[0]),

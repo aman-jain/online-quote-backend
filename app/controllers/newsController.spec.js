@@ -41,10 +41,10 @@ describe('Executing Test Cases For NewsController', () => {
             }),
         });
         model = initModel(config, disableLogging);
-        router.get('/news:id', model.getNews);
-        router.post('/news:id', model.saveNews);
-        router.put('/news:id', model.updateNews);
-        router.delete('/news:id', model.deleteNews);
+        router.get('/news:id?', model.getNews);
+        router.post('/news:id?', model.saveNews);
+        router.put('/news:id?', model.updateNews);
+        router.delete('/news:id?', model.deleteNews);
         app.use(router);
     });
     after(() => {
